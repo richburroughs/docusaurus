@@ -1047,6 +1047,14 @@ const Users = [
     tags: ['opensource'],
   },
   {
+    title: 'vcluster',
+    description: 'A tool for creating virtual Kubernetes clusters',
+    preview: require('./showcase/vcluster.png'),
+    website: 'https://vcluster.con/',
+    source: 'https://github.com/loft-sh/vcluster',
+    tags: ['opensource'],
+  },
+  {
     title: 'Vector',
     description: 'A High-Performance, Logs, Metrics, & Events Router',
     preview: require('./showcase/vector.png'),
